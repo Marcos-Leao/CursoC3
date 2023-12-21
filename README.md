@@ -24,7 +24,7 @@ Este Github apoia um curso presencial.\Large\&#x2298;
 Curso patrocinado pela lei Paulo Gustavo, promovido pela Secretaria de Cultura do Município de Novo Gama, GO.
 
 <p align="center">
-[/LPG.png|Lei Paulo Gustavo]
+<img src="https://github.com/Marcos-Leao/CursoC3/blob/main/LPG.png"/>
 </p>
 
 ## Contribuições
